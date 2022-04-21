@@ -1,6 +1,6 @@
 ## Uncovering Clinical Risk Factors and Predicting Severe COVID-19 Cases Using UK Biobank Data: Machine Learning Approach
 
-Please visit our Clinical Risk Prediction Apps at http://labsocuhk.ddns.net:8890/covid19/
+Please visit our Clinical Risk Prediction Apps at https://labsocuhk.ddns.net:8890/covid19/
 
 The R code of the Shiny App can be found in this project.
 
